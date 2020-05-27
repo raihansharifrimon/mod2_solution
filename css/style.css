@@ -1,0 +1,49 @@
+
+* {
+	box-sizing: border-box;
+}
+
+.inner {
+	background: #999894;
+	border: 1px solid #00000;
+	padding: 10px;
+	border: 1px solid #000;
+	width: 100%;
+	position: relative;
+}
+
+.mt-3, .my-3 {
+	margin-top: 3rem !important;
+}
+
+.my-2 {
+    margin-top: 1.5rem !important;
+}
+
+.headding-1,
+.headding-2,
+.headding-3{
+	position: absolute;
+	top: 0;
+	right: 15px;
+	width: 150px;
+	height: 45px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.headding-1 {
+	background: #D29595;
+	border: 1px solid #000;
+}
+
+.headding-2 {
+	background: #C14543;
+	border: 1px solid #000;
+	color: #fff;
+}
+
+.headding-3 {
+	background: #E5D198;
+	border: 1px solid #000;
+}
